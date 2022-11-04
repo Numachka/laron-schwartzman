@@ -13,8 +13,6 @@ export default {
 <style scoped>
 
 footer {
-  position: absolute;
-  bottom: 0;
   text-align: center;
 }
 
